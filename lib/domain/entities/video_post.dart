@@ -1,4 +1,4 @@
-//implementando la clase 
+
 class VideoPost {
   final String caption;
   final String videoUrl;
